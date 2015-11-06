@@ -3,7 +3,6 @@ body {
     min-height: 100vh;
     margin: 0;
 }
-
 canvas {
     margin: auto;
     top: 0;
